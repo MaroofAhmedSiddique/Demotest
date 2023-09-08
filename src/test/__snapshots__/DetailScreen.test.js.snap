@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostDetailsScreen renders correctly 1`] = `
+<RNCSafeAreaView
+  edges={
+    {
+      "bottom": "additive",
+      "left": "additive",
+      "right": "additive",
+      "top": "additive",
+    }
+  }
+  style={
+    {
+      "backgroundColor": "#f5f5f5",
+      "flex": 1,
+      "padding": 20,
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    <Image
+      source={
+        {
+          "testUri": "../../../src/assets/ic_backIcon.png",
+        }
+      }
+      style={{}}
+    />
+  </View>
+  <RCTScrollView
+    bounces={false}
+  >
+    <View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "gap": 10,
+            "marginTop": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "fontSize": 20,
+            }
+          }
+        >
+          Item Page 
+        </Text>
+      </View>
+      <View
+        style={
+          {
+            "marginTop": 25,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "fontSize": 25,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          Title
+        </Text>
+        <Text
+          style={
+            {
+              "color": "#555",
+              "fontSize": 17,
+              "lineHeight": 24,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "marginTop": 25,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "fontSize": 25,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          Body
+        </Text>
+        <Text
+          style={
+            {
+              "color": "#555",
+              "fontSize": 17,
+              "lineHeight": 24,
+            }
+          }
+        />
+      </View>
+    </View>
+  </RCTScrollView>
+</RNCSafeAreaView>
+`;

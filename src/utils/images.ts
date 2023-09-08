@@ -1,0 +1,12 @@
+export const splash_logo_icon = require('./../assets/splash_logo_icon.jpeg');
+export const ic_radio_uncheck = require('./../assets/ic_radio_uncheck.png');
+export const ic_radio_check = require('./../assets/ic_radio_check.png');
+export const ic_backIcon = require('./../assets/ic_backIcon.png');
+export const ic_exchange = require('./../assets/ic_exchange.png');
+export const ic_homeIcon = require('./../assets/ic_homeIcon.png');
+export const ic_profileIcon = require('./../assets/ic_profileIcon.png');
+export const ic_signInWithGoogle = require('./../assets/ic_signInWithGoogle.png');
+export const ic_view_icon = require('./../assets/ic_view_icon.png');
+export const ic_hide_icon = require('./../assets/ic_hide_icon.png');
+export const ic_lock_icon = require('./../assets/ic_lock_icon.png');
+export const ic_mail_icon = require('./../assets/ic_mail_icon.png');
